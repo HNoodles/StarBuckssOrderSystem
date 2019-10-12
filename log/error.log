@@ -1,0 +1,29 @@
+2019-06-23 22:24:48.309 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must have length ranging from 8 to 99
+2019-06-23 22:24:48.311 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - User signup failed: user is null.
+2019-06-23 22:24:48.313 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - User signup failed: empty user name or password.
+2019-06-23 22:24:48.314 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must and can only consist of characters, numbers and underline at the same time
+2019-06-23 22:24:48.328 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must and can only consist of characters, numbers and underline at the same time
+2019-06-23 22:24:48.330 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must and can only consist of characters, numbers and underline at the same time
+2019-06-23 22:24:48.330 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must and can only consist of characters, numbers and underline at the same time
+2019-06-23 22:24:48.332 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid username: username must have length ranging from 8 to 49
+2019-06-23 22:24:48.334 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - username or password error
+2019-06-23 22:24:48.335 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - User log in failed: user is null.
+2019-06-23 22:24:48.337 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid username: username must start with starbb_
+2019-06-23 22:24:48.337 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - User signup failed: Invalid username or password: {1}.
+2019-06-23 22:24:48.339 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password mustn't be null
+2019-06-23 22:24:48.345 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - user doesn't exist
+2019-06-23 22:24:48.347 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must and can only consist of characters, numbers and underline at the same time
+2019-06-23 22:24:48.348 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must and can only consist of characters, numbers and underline at the same time
+2019-06-23 22:24:48.348 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must and can only consist of characters, numbers and underline at the same time
+2019-06-23 22:24:48.348 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must and can only consist of characters, numbers and underline at the same time
+2019-06-23 22:24:48.348 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must and can only consist of characters, numbers and underline at the same time
+2019-06-23 22:24:48.349 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must and can only consist of characters, numbers and underline at the same time
+2019-06-23 22:24:48.349 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid username: username can only consist of characters, numbers or underline
+2019-06-23 22:24:48.351 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - User log in failed: empty user name or password.
+2019-06-23 22:24:48.354 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - User already exists, name: starbb_tmx.
+2019-06-23 22:24:48.356 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid username: username must have length ranging from 8 to 49
+2019-06-23 22:24:48.356 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid username: username must start with starbb_
+2019-06-23 22:24:48.358 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid username: username must start with starbb_
+2019-06-23 22:24:48.358 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid username: username must start with starbb_
+2019-06-23 22:24:48.360 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid username: username mustn't be null
+2019-06-23 22:24:48.365 [main] ERROR fudan.se.lab4.service.impl.AccountServiceImpl - Invalid password: password must have length ranging from 8 to 99

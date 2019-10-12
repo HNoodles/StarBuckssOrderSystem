@@ -1,0 +1,31 @@
+2019-06-23 22:22:34.982 [main] WARN  fudan.se.lab4.service.impl.AccountServiceImpl - User login successfully, name: starbb_tt74
+2019-06-23 22:22:49.435 [main] WARN  fudan.se.lab4.service.impl.OrderServiceImpl - Order ID: 2019062322224962
+cappuccino: size:2 Original price: 26
+green tea: size:2 Original price: 20
+Discount Strategy： 15% off for buying both tea and coffee: Saving RMB￥6.9
+Original total price: RMB￥46.0
+Discounted total price: RMB￥46.0
+
+2019-06-23 22:24:48.327 [main] WARN  fudan.se.lab4.service.impl.AccountServiceImpl - User signup successfully, name: starbb_programmerwcn
+2019-06-23 22:24:48.362 [main] WARN  fudan.se.lab4.service.impl.AccountServiceImpl - User login successfully, name: starbb_kylin
+2019-06-23 22:24:48.364 [main] WARN  fudan.se.lab4.service.impl.AccountServiceImpl - User login successfully, name: starbb_tmx
+2019-06-23 22:24:51.674 [main] WARN  fudan.se.lab4.service.impl.OrderServiceImpl - Order ID: null
+red tea: size:1 Ingredients:milk,sugar Original price: 22.2
+green tea: size:2 Ingredients:chocolate,cream Original price: 22.2
+green tea: size:2 Ingredients:milk,sugar Original price: 22.2
+green tea: size:3 Ingredients:chocolate,cream Original price: 23.2
+Discount Strategy： Three cups of tea with another for free: Saving RMB￥18.0
+Original total price: RMB￥89.8
+Discounted total price: RMB￥89.8
+
+2019-06-23 22:24:51.681 [main] WARN  fudan.se.lab4.service.impl.OrderServiceImpl - Order ID: null
+red tea: size:1 Ingredients:milk,sugar Original price: 22.2
+green tea: size:2 Ingredients:chocolate,cream Original price: 22.2
+green tea: size:2 Ingredients:milk,sugar Original price: 22.2
+green tea: size:3 Ingredients:chocolate,cream Original price: 23.2
+cappuccino: size:3 Ingredients:milk,sugar Original price: 30.2
+cappuccino: size:2 Ingredients:milk,sugar Original price: 28.2
+Discount Strategy： Saving 30 for every 100: Saving RMB￥30.0
+Original total price: RMB￥148.2
+Discounted total price: RMB￥148.2
+
